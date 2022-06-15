@@ -1,5 +1,5 @@
 # Starbucks-Capstone-Project
-How do we know if a offer will be received well by a customer? Is there a way to predict if a customer will complete a offer and therefore make transactions?
+How do we know if a offer will be received well by a customer of Starbucks? Is there a way to predict if a customer will complete a offer and therefore make transactions?
 
 ## Table of contents
 
@@ -32,6 +32,6 @@ After analysing the data (by going through all the necessary steps: Posing Quest
 
 ## Licensing, Authors, Acknowledgements<a name="author"></a>
 
-Can't take credit for the data used for this project. The data was provided by Udicity. For further information please go to their webpage:  https://www.udacity.com/
+Can't take credit for the data used for this project. The data was provided by Udicity (and Starbucks). For further information please go to their webpage:  https://www.udacity.com/
 
 Otherwise feel free to use my code.
