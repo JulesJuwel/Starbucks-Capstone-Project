@@ -24,11 +24,11 @@ There are three json files (all available in the file 'data'). They contain the 
 
 Furthermore there is a pyhton-script: Starbucks_Capstone_notebook.ipynb
 This is the main file I used to make my analysis, implement an algorithem and present the results to you.
+There is a file called Project_Starbucks.pdf. Here you can find all the results.
 
 
 ## Results
-After analysing the data (by going through all the necessary steps: Posing Question, Wrangle Data (Gather, Assess and Clean the Data), Exploring the Data, Conclusion). I came to the conclusion to try the Random Forest approch for finding out, if an offer will be completed (and therefore making more transactions). By looking at the confusion Matrix afterwards, I noticed that the model will work fine for the prediction of offer completed and offer viewed. Which was our main goal. This can be read in the blog-post [here](https://medium.com/@julia.gilly/starbucks-capstone-project-using-random-forest-to-predict-if-an-offer-is-completed-or-not-by-a-6245cdb5b6ab )
-
+All the results can be found [here]([https://medium.com/@julia.gilly/starbucks-capstone-project-using-random-forest-to-predict-if-an-offer-is-completed-or-not-by-a-6245cdb5b6ab ])
 
 ## Licensing, Authors, Acknowledgements<a name="author"></a>
 
