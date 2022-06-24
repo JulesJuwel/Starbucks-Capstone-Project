@@ -28,7 +28,7 @@ There is a file called Project_Starbucks.pdf. Here you can find all the results.
 
 
 ## Results
-All the results can be found [here]([https://medium.com/@julia.gilly/starbucks-capstone-project-using-random-forest-to-predict-if-an-offer-is-completed-or-not-by-a-6245cdb5b6ab ])
+All the results can be found [here](https://github.com/JulesJuwel/Starbucks-Capstone-Project/blob/main/Project_Starbucks.pdf).
 
 ## Licensing, Authors, Acknowledgements<a name="author"></a>
 
